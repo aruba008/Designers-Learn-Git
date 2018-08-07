@@ -171,7 +171,7 @@ icojump    	产品设计师(icojump.in)
 Kim Du   	UX designer
 InSb		摸石头过河的学生
 K    	        交互设计师
-Tony Wang   	Student
+Tony Wang   	Student哎哎
 limiwu		视觉设计
 LuxuryD     	幻想成为编程大牛的学生，客户端打
 zmwybxzy	前端
